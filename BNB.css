@@ -1,0 +1,103 @@
+body{
+
+}
+.container{
+    max-width: 1000px;
+    padding: 5px;
+    box-sizing: border-box;
+    background-color: rgb(186, 211, 218);
+    margin: 0px auto;
+}
+.img1{
+    height: 150px;
+    width: 120px;
+    margin: 30px;
+    border: 5px solid black;
+    border-radius: 50%;
+    float: left;
+}
+.profile-name{
+    float: left;
+    padding: 15px;
+    margin: 10px;
+}
+h1, h2, h3, h4, h5, h6{
+    color: cornflowerblue;
+}
+.contact ul li{
+    list-style-type: none;
+    font-size: 20px;
+   
+}
+.contact{
+    float: right;
+    padding: 30px;
+}
+.contact ul li a{
+    text-decoration: none;
+    color: rgb(17, 143, 74);
+    font-weight: bold;
+}
+.contact ul li a:hover{
+    text-decoration: underline;
+    color: rgb(219, 28, 28);
+
+}
+.div-clear{
+    clear: both;
+}
+.hed{
+    border: black solid 3px;
+    width: 980px;
+    margin: 20px auto;
+    
+}
+.div-left{
+    width: 30%;
+    float: left;
+    margin: 0px 10x;
+   
+}
+
+#div-right{
+    width: 70%;
+    float: left;
+    
+    
+}
+.div-clear{
+    clear: both;
+}
+.hr{
+    width: 100%;
+    border: black solid 1px;
+    
+}
+.para{
+    color:grad;
+    font-weight: bold;
+}
+.time{
+    font-size: 20px;
+    color: blueviolet;
+}
+.edu-left{
+    float: left;
+    width: 45%;
+}
+.edu-right{
+    float: right;
+    width: 45%;
+}
+.banner{
+    background-color:black;
+    padding: 20px;
+    color: wheat;
+    text-align: center;
+}
+.socile a{
+    padding: 20px;
+    color: wheat;
+    margin: 20px;
+    text-decoration: none;
+}
